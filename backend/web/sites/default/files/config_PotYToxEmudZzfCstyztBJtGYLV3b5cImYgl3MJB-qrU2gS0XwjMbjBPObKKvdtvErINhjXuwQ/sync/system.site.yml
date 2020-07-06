@@ -1,0 +1,14 @@
+uuid: 6cb38e36-4736-49a5-bfa4-fae7a5b1c0e8
+name: 'Headless Drupal9 Angular'
+mail: shakercs@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
