@@ -1,1 +1,0 @@
-# headless-drupal8-angular
